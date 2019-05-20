@@ -1,0 +1,3 @@
+rootProject.name = 'washy_3570'
+
+include ':app'
